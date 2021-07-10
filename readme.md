@@ -1,7 +1,8 @@
 ## SIMPLE BLINK EXAMPLE
 
 Blinkenlight with embedded Rust :)  
-Ported to Sparkfun MicroMod nRF52840 board (https://www.sparkfun.com/products/16984).  In order to flash code with nrfutil, Adafruit bootloader has to be flashed onto the board first. 
+Ported to Sparkfun MicroMod nRF52840 board (https://www.sparkfun.com/products/16984).  
+In order to flash code with nrfutil, Adafruit bootloader has to be flashed onto the board first. 
 
 ![blinkenlight](micromod_blink.gif)
 
